@@ -1,0 +1,25 @@
+site_id,site_name,year,parameter,annual_mean,data_capture
+GB1035A,Glasgow Great Western Road,2018,Nitrogen dioxide,29,99.3
+GB1044A,Glasgow High Street,2018,Nitrogen dioxide,31,98.2
+GB0657A,Glasgow Kerbside,2018,Nitrogen dioxide,61,99.2
+GB1028A,Glasgow Townhead,2018,Nitrogen dioxide,24,99.1
+GB1035A,Glasgow Great Western Road,2019,Nitrogen dioxide,30,91.4
+GB1044A,Glasgow High Street,2019,Nitrogen dioxide,30,97.4
+GB0657A,Glasgow Kerbside,2019,Nitrogen dioxide,56,98.4
+GB1028A,Glasgow Townhead,2019,Nitrogen dioxide,24,99.1
+GB1035A,Glasgow Great Western Road,2020,Nitrogen dioxide,19,98.1
+GB1044A,Glasgow High Street,2020,Nitrogen dioxide,21,99.2
+GB0657A,Glasgow Kerbside,2020,Nitrogen dioxide,36,99.1
+GB1028A,Glasgow Townhead,2020,Nitrogen dioxide,17,99.1
+GB1035A,Glasgow Great Western Road,2021,Nitrogen dioxide,22,98.6
+GB1044A,Glasgow High Street,2021,Nitrogen dioxide,23,98
+GB0657A,Glasgow Kerbside,2021,Nitrogen dioxide,45,98
+GB1028A,Glasgow Townhead,2021,Nitrogen dioxide,18,99
+GB1035A,Glasgow Great Western Road,2022,Nitrogen dioxide,20,95.5
+GB1044A,Glasgow High Street,2022,Nitrogen dioxide,21,94.6
+GB0657A,Glasgow Kerbside,2022,Nitrogen dioxide,39,99.3
+GB1028A,Glasgow Townhead,2022,Nitrogen dioxide,17,99.1
+GB1035A,Glasgow Great Western Road,2023,Nitrogen dioxide,18,98.8
+GB1044A,Glasgow High Street,2023,Nitrogen dioxide,18,99.5
+GB0657A,Glasgow Kerbside,2023,Nitrogen dioxide,39,79.8
+GB1028A,Glasgow Townhead,2023,Nitrogen dioxide,16,99.5
