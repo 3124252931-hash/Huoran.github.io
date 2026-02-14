@@ -18,13 +18,13 @@ body { margin: 0; padding: 0; }
 <div id="map"></div>
 
 <script>
-mapboxgl.accessToken = 'pk.eyJ1IjoiMzA5NTQ4MCIsImEiOiJjbWtjbm1ibDIwMnVkM2tzY3c1cHp0dXhhIn0.2DiIx6SBBmuVf-ldsfQr_w';
+mapboxgl.accessToken = '你的token';
 
 const map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v10',
-    center: [-4.2518, 55.8642],
-    zoom: 11
+    center: [-4.25, 55.86],
+    zoom: 10
 });
 
 map.on('load', function () {
@@ -35,17 +35,18 @@ map.on('load', function () {
     });
 
     map.addLayer({
-        id: 'roads-layer',
-        type: 'line',
+        id: 'roads',
+        type: 'line',   // 👈 就是这里
         source: 'roads',
         paint: {
-            'line-color': '#ff6600',
-            'line-width': 1.5
+            'line-color': '#ff0000',
+            'line-width': 2
         }
     });
 
 });
 </script>
+
 
 </body>
 </html>
