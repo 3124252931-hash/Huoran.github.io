@@ -36,12 +36,14 @@ map.on('load', function () {
 
     map.addLayer({
         id: 'roads',
-        type: 'line', 
+       type: 'circle', 
         source: 'roads',
         paint: {
-            'line-color': '#ff0000',
-            'line-width': 2
-        }
+    'circle-radius': 6,
+    'circle-color': '#ff0000',
+    'circle-stroke-color': '#ffffff',
+    'circle-stroke-width': 1
+}
     });
 
 });
